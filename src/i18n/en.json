@@ -1,0 +1,13 @@
+
+{
+    "titulo": "Heatmap - Air Quality",
+    "filtroLocalizacao": "Location",
+    "filtroAQI": "AQI Range",
+    "filtroPoluente": "Pollutant Type",
+    "selecione": "Select",
+    "aplicar": "Apply",
+    "mediaAQI": "Average AQI",
+    "menorAQI": "Lowest AQI",
+    "maiorAQI": "Highest AQI",
+    "poluenteComum": "Common Pollutant"
+  }

@@ -1,0 +1,13 @@
+
+{
+    "titulo": "Mapa de Calor - Qualidade do Ar",
+    "filtroLocalizacao": "Localização",
+    "filtroAQI": "Faixa de AQI",
+    "filtroPoluente": "Tipo de Poluente",
+    "selecione": "Selecione",
+    "aplicar": "Aplicar",
+    "mediaAQI": "Média AQI",
+    "menorAQI": "Menor AQI",
+    "maiorAQI": "Maior AQI",
+    "poluenteComum": "Poluente Comum"
+  }
