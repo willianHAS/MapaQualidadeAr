@@ -17,7 +17,10 @@ Visualizador de qualidade do ar que:
 git clone https://github.com/willianHAS/MapaQualidadeAr.git
 
 ## 2. Instale as dependências
-npm install
+- npm install react react-dom @types/react @types/react-dom
+- npm install react-scripts --save
+- npm install axios
+- npm install
 
 ## 3. Inicie a aplicação
 npm start
