@@ -11,6 +11,8 @@ Visualizador de qualidade do ar que:
 - Desenvolvido com React + TypeScript e a biblioteca ECharts (heatmap-bmap).
 - Suporte a múltiplos idiomas
 
+  ![image](https://github.com/user-attachments/assets/c7e0a072-6831-47f0-90b7-2c2e1f86c359)
+
 # Instalação e Execução 
 
 ## 1. Clone o repositório
