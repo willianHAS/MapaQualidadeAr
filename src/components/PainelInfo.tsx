@@ -25,10 +25,10 @@ const PainelInfo: React.FC = () => {
         <span>{traducoes.mediaAQI}: </span>
         <span>{Math.round(mediaAQI)}</span>
       </div>
-      {/* <div>
+      <div>
         <span>{traducoes.menorAQI}: </span>
         <span>{localMenor?.local || '-'}</span>
-      </div> */}
+      </div>
       <div>
         <span>{traducoes.maiorAQI}: </span>
         <span>{localMaior?.local || '-'}</span>

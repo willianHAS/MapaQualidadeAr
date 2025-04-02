@@ -66,10 +66,10 @@ const App: React.FC = () => {
           <h1>{traducoes.titulo}</h1>
           <div className="language-switch">
             <button onClick={() => setIdioma('pt')} className={idioma === 'pt' ? 'active' : ''}>
-              🇧🇷
+              pt
             </button>
             <button onClick={() => setIdioma('en')} className={idioma === 'en' ? 'active' : ''}>
-              🇬🇧
+              en
             </button>
           </div>
         </header>

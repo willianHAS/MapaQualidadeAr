@@ -22,9 +22,9 @@ const Heatmap: React.FC = () => {
         return dentroLocal && dentroAQI && dentroPoluente;
       })
       .map(item => ({
-        name: item.local, // Adiciona o nome do local
+        name: item.local,
         value: [item.lng, item.lat, item.aqi],
-        aqi: item.aqi // Mantém o AQI separado para facilitar o acesso
+        aqi: item.aqi
       }));
 
     setOpcoes({
@@ -82,7 +82,6 @@ const Heatmap: React.FC = () => {
         label: {
           show: true,
           formatter: (params: any) => {
-            // Mostra apenas o AQI no mapa, mas pode ser personalizado
             return params.data.aqi;
           },
           color: '#fff',
